@@ -1,0 +1,6 @@
+name: Gradient
+version: '${project.version}'
+main: me.obito.gradient.Gradient
+api-version: 1.19
+authors: [ Obito17 ]
+description: Gradient color support on your Minecraft server!
