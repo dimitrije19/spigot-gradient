@@ -1,2 +1,2 @@
 # spigot-gradient
-https://www.spigotmc.org/attachments/grad-plugin-jpg.763381/
+https://www.spigotmc.org/resources/gradient.105058/
